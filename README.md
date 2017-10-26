@@ -1,4 +1,4 @@
-# WiiU Homebrew Launcher
+# WiiU Classic Homebrew Launcher
 
 The Homebrew Launcher is a WiiU homebrew that lists homebrew applications located on a SD card and permits launching them (similar to the Homebrew Channel of the Wii).
 
