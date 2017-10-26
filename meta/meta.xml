@@ -2,7 +2,7 @@
 <app version="1">
   <name>Classic Homebrew Launcher</name>
   <coder>Iam2smart</coder>
-  <version>1.0.0</version>
+  <version>1.5</version>
   <release_date>20161116210000</release_date>
   <short_description>WiiU Classic Homebrew Launcher</short_description> 
   <long_description>Loads WiiU homebrew from SD card and from network.
